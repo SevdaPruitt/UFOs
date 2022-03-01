@@ -11,7 +11,9 @@ Results:
 When a user visits the html page, by default the table will be displaying all available data. 
 
 By using "Filter Search" user input section, the user can filter the data by day, city, state, country, and shape to narrow it down based on the interest.
-
+![filtersearch.png](static/images/filtersearch.png)
 Use images of your webpage during the filtering process to support your explanation.
+![filtersearchdisplay.png](static/images/filtersearchdisplay.png)
+
 
 Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
