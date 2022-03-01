@@ -12,9 +12,9 @@ When a user visits the html page, by default the table will be displaying all av
 
 By using "Filter Search" user input section, the user can filter the data by day, city, state, country, and shape to narrow it down based on the interest.
 
-Use images of your webpage during the filtering process to support your explanation.
-
 ![filtersearchdisplay.png](static/images/filtersearchdisplay.png)
 
 
-Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
+Summary: 
+Javascript is a powerful language, and it is case-sensitive as well. Currently our data table has everything in lowercase. If user does not enter lowercase, it might be a dissapointing experience as it will not populate. To overcome this more code regarding to converting user entry into a lowercase might be a solution.
+Another improvement can be made for the shape input. Currently it is a text field and it could be user-friendly if it was a drop-down list to select. This would also eliminate typos.
